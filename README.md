@@ -1,17 +1,20 @@
 # Taxonomy_thesis  
+
+This repository is dedicated to Contrastive Learning for Taxonomy Enrichment task.  
+The stricture is following:  
+
 ```plaintext
 Contrastive_thesis/
-├── SigmoidLoss/              # Directory for Sogmoid Loss functions  
-│   ├── losses.py           # Initialize the module  
-│   └── set_constructior.py          # Implementation of Sogmoid Loss functions  
+├── SigmoidLoss/              
+│   ├── losses.py      
+│   └── set_constructior.py          
 │   └── train.py 
 │   └── loader_config.yml  
 │  
-├── data/                     # Directory for datasets  
-│   ├── MAG_CS/                  # Raw data files  
-│   └── WordNet/            # Processed data files  
+├── data/                    
+│   ├── MAG_CS/            
+│   └── WordNet/           
 │  
-├── notebooks/                # Jupyter notebooks  
+├── notebooks/                
 │   └── Triplet_loss_pipeline.ipynb # Notebook for triplet loss pipeline  
-│  
-├── README.md                   
+           
