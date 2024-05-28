@@ -1,0 +1,17 @@
+EDGE_LIST_PATH:
+  - '/raid/rabikov/contrastive_data/all_final.edgelist'
+
+NEIGHBOUR_MATRIX_PATH:
+  - '/raid/rabikov/contrastive_data/matrix_final.pickle'
+
+# MAX_INDEP_SUBSETS:
+#  - '/raid/rabikov/contrastive_data/noun/max_subsets.pickle'
+
+CHECKPOINTS_DIR:
+  - '/raid/rabikov/contrastive_data'
+
+MODEL:
+  - 'BERT'
+
+NUM_EPOCHS:
+  - 10
