@@ -1,5 +1,5 @@
 # Taxonomy_thesis  
-
+```plaintext
 Contrastive_thesis/
 ├── SigmoidLoss/              # Directory for Sogmoid Loss functions  
 │   ├── losses.py           # Initialize the module  
