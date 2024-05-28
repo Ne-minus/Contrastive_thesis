@@ -1,4 +1,7 @@
 # Taxonomy_thesis  
+
+This repository is dedicated to Contrastive Learning for Taxonomy Enrichment task. The stricture is following:  
+
 ```plaintext
 Contrastive_thesis/
 ├── SigmoidLoss/              
