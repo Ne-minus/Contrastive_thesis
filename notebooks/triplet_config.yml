@@ -1,0 +1,11 @@
+NUM_EPOCHS:
+  - 10
+
+MODEL_NAME:
+   - 'bert-base-uncased'
+
+TRAIN_EDGES_PATH:
+  - '../data/all_final.edgelist'
+
+OUTPUT_CHECKPOINTS_DIR:
+  - '../data/triplet_checkpoints'
