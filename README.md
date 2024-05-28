@@ -4,7 +4,7 @@ Contrastive_thesis/
 ├── SigmoidLoss/              # Directory for Sogmoid Loss functions  
 │   ├── losses.py           # Initialize the module  
 │   └── set_constructior.py          # Implementation of Sogmoid Loss functions  
-│   └── **train.py**  
+│   └── train.py 
 │   └── loader_config.yml  
 │  
 ├── data/                     # Directory for datasets  
