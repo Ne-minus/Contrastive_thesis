@@ -34,3 +34,6 @@ pip install -r requirements. txt
 ```bash
 python3 train.py
 ```
+
+Evaluation script is available in ```Triplet_loss_pipeline.ipynb```.  
+
