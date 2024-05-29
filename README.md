@@ -16,5 +16,8 @@ Contrastive_thesis/
 │   └── WordNet/           
 │  
 ├── notebooks/                
-│   └── Triplet_loss_pipeline.ipynb # Notebook for triplet loss pipeline  
+│   ├── Triplet_loss_pipeline.ipynb
+│   └── setup.py  
+│   └── tripletTrain.py
+│   └── triplet_config.yml 
            
