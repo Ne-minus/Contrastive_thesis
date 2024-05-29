@@ -15,7 +15,7 @@ Contrastive_thesis/
 │   ├── MAG_CS/            
 │   └── WordNet/           
 │  
-├── cd TripletLoss/                
+├── TripletLoss/                
 │   ├── Triplet_loss_pipeline.ipynb
 │   └── setup.py  
 │   └── trainTriplet.py
