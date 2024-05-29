@@ -24,7 +24,7 @@ Contrastive_thesis/
 ```
 
 ## Data
-All the data used for training, evaluation and test is available in the ```data``` folder. Checkpoints we obtained are available at the same directory.
+All the data used for training, evaluation and test is available in the ```data``` folder. 
 
 ## Usage  
 In order to run our architecture, you need to specify appropriate paths in ```.yml``` file and run ```train.py```.  
