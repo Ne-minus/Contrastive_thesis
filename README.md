@@ -20,6 +20,7 @@ Contrastive_thesis/
 │   └── setup.py  
 │   └── trainTriplet.py
 │   └── triplet_config.yml
+├── requirements.txt
 ```
 
 ## Data
@@ -27,6 +28,9 @@ All the data used for training, evaluation and test is available in the ```data`
 
 ## Usage  
 In order to run our architecture, you need to specify appropriate paths in ```.yml``` file and run ```train.py```.  
+```bash
+pip install -r requirements. txt
+```
 ```bash
 python3 train.py
 ```
