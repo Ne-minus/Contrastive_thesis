@@ -1,7 +1,7 @@
 # Taxonomy_thesis  
 
 This repository is dedicated to Contrastive Learning for Taxonomy Enrichment task.  
-The stricture is following:  
+The structure is following:  
 
 ```plaintext
 Contrastive_thesis/
