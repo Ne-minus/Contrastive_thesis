@@ -15,10 +15,10 @@ Contrastive_thesis/
 │   ├── MAG_CS/            
 │   └── WordNet/           
 │  
-├── notebooks/                
+├── cd TripletLoss/                
 │   ├── Triplet_loss_pipeline.ipynb
 │   └── setup.py  
-│   └── tripletTrain.py
+│   └── trainTriplet.py
 │   └── triplet_config.yml
 ```
 
